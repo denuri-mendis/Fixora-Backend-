@@ -159,7 +159,7 @@ export function LoginScreen() {
                 maxWidth: "220px",
               }}
             >
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.
+              Take your service experience to the next level with our real-time local service booking platform.
             </p>
           </div>
         </div>
